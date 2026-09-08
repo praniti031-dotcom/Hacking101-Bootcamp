@@ -32,6 +32,13 @@ dynamic libraries let programs reuse functionalities.
 sudo - : substitue userdo or superuserdo
 
 Three modes - 1.user mode , 2.Kernel mode, 3.
+Linux fundamentals -: 
+linux kernel - core software that manages CPU, memory, devices and processes
+linux history -: UNIX-> GNU -> Linux kernel -> Distributions
+regular files, directories, 
+grep to find specific number on file
+xz video
+
 
 # 🔐 Hacking 101 Bootcamp
 
