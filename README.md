@@ -39,6 +39,15 @@ regular files, directories,
 grep to find specific number on file
 xz video
 
+Day - 3
+Browser - client , web server - backend, Database - stores information
+HTml , css, javascript
+HTTP Methods - Get, post,put,patch,delete
+Aunthentication, Authorization
+rate limiting
+
+
+
 
 # 🔐 Hacking 101 Bootcamp
 
