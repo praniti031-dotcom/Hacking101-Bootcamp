@@ -46,6 +46,11 @@ HTTP Methods - Get, post,put,patch,delete
 Aunthentication, Authorization
 rate limiting
 
+Flag on postman - GET 
+1.OWASP{g4l4ct1c_p1zz4_m4st3r_c0sm1c_fl4g}
+2.OWASP{g4l4ct1c_p1zz4_m4st3r_c0sm1c_fl4g}
+3.OWASP{g4l4ct1c_p1zz4_m4st3r_c0sm1c_fl4g}
+
 
 
 
