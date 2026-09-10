@@ -51,6 +51,35 @@ Flag on postman - GET
 2.OWASP{g4l4ct1c_p1zz4_m4st3r_c0sm1c_fl4g}
 3.OWASP{g4l4ct1c_p1zz4_m4st3r_c0sm1c_fl4g}
 
+DAY - 4
+
+Cryptography (for secure communication)
+Converts our messages in encrypt format so it is hard to understand for others(Encryption)
+(Decryption) - reverse of encryption
+Encoding Vs Encryption
+Julius Caeser's Secret Weapon
+Vigenere Cipher Example 
+Caeser Cipher
+Frequency analysis
+Symmetric Vs Asymmetric Cryptography
+Symmetric - ONE key is used only
+Asymmetric - TWO key are used (private-server side ,public-client) 
+Hashing -: 
+AES - Advanced Encryption standard
+RSA - 
+OSINT - open source intelligence
+
+Tools for stalkig or checking usernames
+Sherlock , Whatsmyname , Namechk
+OSNIT
+
+
+
+
+
+
+
+
 
 
 
