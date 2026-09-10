@@ -73,6 +73,8 @@ Tools for stalkig or checking usernames
 Sherlock , Whatsmyname , Namechk
 OSNIT
 
+Need to explore reverse and forensic domain in cybersecurity
+
 
 
 
